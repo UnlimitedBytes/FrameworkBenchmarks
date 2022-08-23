@@ -1,0 +1,14 @@
+{
+    "private": true,
+    "name": "bun",
+    "version": "1.0.0",
+    "main": "src/server.js",
+    "license": "MIT",
+    "scripts": {
+        "start": "bun src/server.js"
+    },
+    "devDependencies": {
+    },
+    "dependencies": {
+    }
+}

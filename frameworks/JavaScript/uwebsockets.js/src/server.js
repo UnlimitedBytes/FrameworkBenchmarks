@@ -9,7 +9,7 @@ const mysqlPool = mysql.createPool({
     password: 'benchmarkdbpass',
     database: 'hello_world',
     waitForConnections: true,
-    connectionLimit: 512,
+    connectionLimit: 10,
     queueLimit: 0,
 });
 

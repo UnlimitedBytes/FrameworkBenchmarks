@@ -1,7 +1,0 @@
-{
-  "name": "restana",
-  "dependencies": {
-    "restana": "^3.3.0"
-  },
-  "main": "app.js"
-}
